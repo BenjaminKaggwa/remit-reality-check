@@ -1,5 +1,7 @@
 Remit Reality Check
 
+Preview here https://benjaminkaggwa.github.io/remit-reality-check/
+
 A small tool that shows what actually lands in your recipient's account when you send money abroad — not the advertised fee, the real cost once the exchange-rate markup is included.
 
 Live demo: add your GitHub Pages URL here
